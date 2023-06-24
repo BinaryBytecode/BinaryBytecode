@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm [A genius hacker!](https://github.com/ageniushacker) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
-<!--
-**BinaryBytecode/BinaryBytecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## ⚙️ &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/ageniushacker">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ageniushacker&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ageniushacker&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
+
+## 🎉 Skills 🎉
+ - Web technologies: HTML, CSS, PHP, JS
+ - Databases: MySQL, MariaDB
+ - Languages: Python
