@@ -14,5 +14,5 @@
 
 ## 🎉 Skills 🎉
  - Web technologies: HTML, CSS, PHP, JS
- - Databases: MySQL, MariaDB
- - Languages: Python, C, C++, nodejs
+ - Databases: MySQL, MariaDB, SQLite
+ - Languages: Python, nodejs, lua (and a bit of golang, C, C++)
